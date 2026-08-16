@@ -5,7 +5,6 @@ Cj Carlos &middot; Southern New Hampshire University &middot; Summer 2026
 ![language](https://img.shields.io/badge/language-HTML%20%7C%20CSS-blue)
 ![collaboration tool](https://img.shields.io/badge/collaboration%20tool-Git%20%26%20GitHub-lightgrey)
 ![editor](https://img.shields.io/badge/editor-VS%20Code-informational)
-![license](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
