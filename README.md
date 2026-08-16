@@ -106,7 +106,7 @@ path, since Mongoose skips schema validation on updates by default.
 
 ## Professional Self-Assessment
 
-### [Read the self-assessment](index.html)
+### [Read the self-assessment](<CS499_Professional_Self_Assessment(1).docx>)
 
 The self-assessment introduces me, reflects on how completing this program shaped my
 professional goals coming from a QA and inspection background, and maps my work on Travlr
